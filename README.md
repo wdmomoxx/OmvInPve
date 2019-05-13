@@ -1,3 +1,9 @@
+## 安装onmp
+一键命令，复制->粘贴->回车
+```
+https://raw.githubusercontent.com/wdmomoxx/OmvInPve/master/OmvInPve.sh
+```
+
 >This is a omv4 install in proxmox ve 5.3/5.4 shell script.
 
 ## install guide ##
